@@ -25,6 +25,10 @@ body{
     display: grid;
     grid-template-columns: auto 1fr;
 }
+
+.backsite {
+    background-color: chocolate;
+}
 #sidebar{
     box-sizing: border-box;
     height: 100vh;
